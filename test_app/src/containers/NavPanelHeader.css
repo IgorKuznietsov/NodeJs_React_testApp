@@ -1,0 +1,6 @@
+.NavPanelHeader {
+  display: flex;
+  flex-direction: column;
+  border-width: 1px;
+  background-color: aqua  
+}
